@@ -1,0 +1,25 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "skole app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LolerSwager/crud-app.git"
+  },
+  "keywords": [
+    "crud",
+    "app",
+    "nodejs"
+  ],
+  "author": "jannick nielsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LolerSwager/crud-app/issues"
+  },
+  "homepage": "https://github.com/LolerSwager/crud-app#readme"
+}
